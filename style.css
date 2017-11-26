@@ -1,0 +1,28 @@
+/*style.css*/
+
+h1 {
+	text-align: center;
+	padding: 30px;
+}
+
+ul {
+    padding: 20px;
+    background-color: blue;
+
+}
+
+li {    
+    display: inline;
+    padding: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+
+a:hover {
+    background-color: #111111;
+}

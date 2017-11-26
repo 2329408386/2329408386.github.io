@@ -1,0 +1,13 @@
+/*homework1.css*/
+
+div h1{
+	text-align: center;
+	color: red;
+}
+
+h1{
+	color: blue;
+	margin: 20px;
+	padding: 10px;
+	background-color: #918BD6;
+}
